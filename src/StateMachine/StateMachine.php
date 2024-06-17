@@ -129,6 +129,11 @@ class StateMachine extends BaseStateMachine
             return $state->name;
         }
 
+        // temp fix from sebdesign - branch from 3.4.2
+        if (is_null($state)) {
+            return '';
+        }
+
         return $state;
     }
 

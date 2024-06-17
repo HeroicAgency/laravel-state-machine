@@ -1,13 +1,13 @@
 {
-    "name": "sebdesign/laravel-state-machine",
-    "description": "Winzou State Machine service provider for Laravel",
+    "name": "heroicagency/laravel-state-machine",
+    "description": "temporary fork until bugfix",
     "keywords": [
         "laravel",
         "state",
         "event",
         "statemachine"
     ],
-    "homepage": "https://github.com/sebdesign/laravel-state-machine",
+    "homepage": "https://github.com/heroicagency/laravel-state-machine",
     "license": "MIT",
     "authors": [
         {
